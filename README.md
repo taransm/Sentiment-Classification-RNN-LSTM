@@ -14,9 +14,9 @@ I discovered that the bidirectional LSTM could get an F1-score of 0.88 for recom
 ### Download GloVe: Global Vectors for Word Representation from https://nlp.stanford.edu/projects/glove/
 
 
-<img src="./readmeAssets/1.png" width=450 height=350></img>
-<img src="./readmeAssets/2.png" width=450 height=350></img>
-<img src="./readmeAssets/3.png" width=450 height=350></img>
-<img src="./readmeAssets/5.png" width=450 height=350></img>
-<img src="./readmeAssets/6.png" width=450 height=350></img>
-<img src="./readmeAssets/7.png" width=450 height=350></img>
+<img src="./readmeAssets/1.png" ></img>
+<img src="./readmeAssets/2.png"></img>
+<img src="./readmeAssets/3.png" ></img>
+<img src="./readmeAssets/5.png"></img>
+<img src="./readmeAssets/6.png" ></img>
+<img src="./readmeAssets/7.png" ></img>
